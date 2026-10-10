@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:23:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>QDuo</title>
+      <link>https://xueshi.dev/qduo/</link>
+      <guid isPermaLink="false">046a4cfe99928671e596723bb395c1cd14c57706:QDuo</guid>
+      <pubDate>Sat, 10 Oct 2026 02:23:12 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: QDuo
+Description: 任意のアプリでテキストを選択するとカーソル付近にポップアップを表示し、AIプロンプト、検索、テキスト変換、ショートカットアプリ、シェルスクリプトなど、自分で設定したアクションを実行。
+Website: https://xueshi.dev/qduo/
+Commit: Add QDuo to Productivity (EN/ZH/JA/KO) (#3305)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/046a4cfe99928671e596723bb395c1cd14c57706</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: QDuo<br/>Description: 任意のアプリでテキストを選択するとカーソル付近にポップアップを表示し、AIプロンプト、検索、テキスト変換、ショートカットアプリ、シェルスクリプトなど、自分で設定したアクションを実行。<br/>Website: https://xueshi.dev/qduo/<br/>Commit: Add QDuo to Productivity (EN/ZH/JA/KO) (#3305)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/046a4cfe99928671e596723bb395c1cd14c57706]]></content:encoded>
+    </item>
+    <item>
+      <title>Redlamp</title>
+      <link>https://redlamp.app</link>
+      <guid isPermaLink="false">08978255747c013604ca4f2f59ca49933c6f0b60:Redlamp</guid>
+      <pubDate>Fri, 09 Oct 2026 02:32:56 GMT</pubDate>
+      <category>デザインとプロダクト / デザインツール</category>
+      <description>Category: デザインとプロダクト / デザインツール
+App: Redlamp
+Description: Lightroom Classicの現像ワークフローをそのまま使える、ネイティブでオープンソースのRAW現像ソフト。
+Website: https://redlamp.app
+Commit: Add Redlamp to Design Tools (EN/ZH/JA/KO) (#3194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/08978255747c013604ca4f2f59ca49933c6f0b60</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / デザインツール<br/>App: Redlamp<br/>Description: Lightroom Classicの現像ワークフローをそのまま使える、ネイティブでオープンソースのRAW現像ソフト。<br/>Website: https://redlamp.app<br/>Commit: Add Redlamp to Design Tools (EN/ZH/JA/KO) (#3194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/08978255747c013604ca4f2f59ca49933c6f0b60]]></content:encoded>
+    </item>
+    <item>
+      <title>Sesame</title>
+      <link>https://github.com/qiwei66/sesame</link>
+      <guid isPermaLink="false">41f7d33a4d34f799888de50de1965b474bd019d7:Sesame</guid>
+      <pubDate>Thu, 08 Oct 2026 13:35:02 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Sesame
+Description: Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。
+Open Source: https://github.com/qiwei66/sesame
+Commit: Add Sesame to AI Tools (#3133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/41f7d33a4d34f799888de50de1965b474bd019d7</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Sesame<br/>Description: Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。<br/>Open Source: https://github.com/qiwei66/sesame<br/>Commit: Add Sesame to AI Tools (#3133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/41f7d33a4d34f799888de50de1965b474bd019d7]]></content:encoded>
+    </item>
+    <item>
+      <title>Quail</title>
+      <link>https://quail-ai.app</link>
+      <guid isPermaLink="false">eac5de76531d52e98b687b20b4411d8086181350:Quail</guid>
+      <pubDate>Thu, 08 Oct 2026 07:59:14 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Quail
+Description: Apple シリコン上で GGUF と MLX モデルを動かすローカルモデルサーバー。OpenAI・Anthropic 互換 API で Claude Code や Codex などのツールと接続。
+Website: https://quail-ai.app
+Commit: Add Quail to AI Tools (EN/ZH/JA/KO) (#3234)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eac5de76531d52e98b687b20b4411d8086181350</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Quail<br/>Description: Apple シリコン上で GGUF と MLX モデルを動かすローカルモデルサーバー。OpenAI・Anthropic 互換 API で Claude Code や Codex などのツールと接続。<br/>Website: https://quail-ai.app<br/>Commit: Add Quail to AI Tools (EN/ZH/JA/KO) (#3234)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eac5de76531d52e98b687b20b4411d8086181350]]></content:encoded>
+    </item>
+    <item>
+      <title>Mooziac</title>
+      <link>https://mooziac.pages.dev</link>
+      <guid isPermaLink="false">3b5f0b5475640761a1cef0fe28add1a2af31ec38:Mooziac</guid>
+      <pubDate>Thu, 08 Oct 2026 06:39:17 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Mooziac
+Description: YouTube Musicとローカル音声に対応した軽量なmacOSメニューバー音楽プレイヤー。
+Website: https://mooziac.pages.dev
+Commit: Add Mooziac to Audio and Video Tools across all languages (#2727)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5f0b5475640761a1cef0fe28add1a2af31ec38</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Mooziac<br/>Description: YouTube Musicとローカル音声に対応した軽量なmacOSメニューバー音楽プレイヤー。<br/>Website: https://mooziac.pages.dev<br/>Commit: Add Mooziac to Audio and Video Tools across all languages (#2727)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5f0b5475640761a1cef0fe28add1a2af31ec38]]></content:encoded>
+    </item>
+    <item>
+      <title>Farol</title>
+      <link>https://github.com/snowztech/farol</link>
+      <guid isPermaLink="false">836865cccae5b5d9067d20656e0234d90de18f4f:Farol</guid>
+      <pubDate>Thu, 08 Oct 2026 06:22:36 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: Farol
+Description: libghostty 上に構築されたターミナル。各コーディングエージェントが作業中、待機中、完了のどれかを表示します。
+Open Source: https://github.com/snowztech/farol
+Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Farol<br/>Description: libghostty 上に構築されたターミナル。各コーディングエージェントが作業中、待機中、完了のどれかを表示します。<br/>Open Source: https://github.com/snowztech/farol<br/>Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f]]></content:encoded>
+    </item>
     <item>
       <title>IPTVMac</title>
       <link>https://goelir.github.io/IPTVMac/</link>
@@ -623,90 +707,6 @@ Website: https://deepdeck.getmegaportal.com/
 Commit: Add DeepDeck to AI tools (#2869)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: DeepDeck<br/>Description: DeepSeek Harnessを基盤とし、Webサイト上のタスク向けにWebMCPツールを作成・再利用できるデスクトップAIワークスペース。<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
-    </item>
-    <item>
-      <title>Qingjian 青简</title>
-      <link>https://qingjian.app/</link>
-      <guid isPermaLink="false">35a3af262ea140508a74118c25266475b0926638:Qingjian 青简</guid>
-      <pubDate>Mon, 14 Sep 2026 05:46:29 GMT</pubDate>
-      <category>入力方法</category>
-      <description>Category: 入力方法
-App: Qingjian 青简
-Description: Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。
-Website: https://qingjian.app/
-Commit: Add 青简 Qingjian
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638</description>
-      <content:encoded><![CDATA[Category: 入力方法<br/>App: Qingjian 青简<br/>Description: Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。<br/>Website: https://qingjian.app/<br/>Commit: Add 青简 Qingjian<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638]]></content:encoded>
-    </item>
-    <item>
-      <title>Wayfinder</title>
-      <link>https://wayfinder-ai.pages.dev/</link>
-      <guid isPermaLink="false">5ef9a3c115e23233512ba5315424a772c738030d:Wayfinder</guid>
-      <pubDate>Sun, 13 Sep 2026 06:27:40 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Wayfinder
-Description: CodexとClaude Codeのセッション、分岐、失敗、判断、ファイル変更を保存するローカルファーストのビジュアル航海図。
-Website: https://wayfinder-ai.pages.dev/
-Commit: Add Wayfinder to AI Tools (#2828)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Wayfinder<br/>Description: CodexとClaude Codeのセッション、分岐、失敗、判断、ファイル変更を保存するローカルファーストのビジュアル航海図。<br/>Website: https://wayfinder-ai.pages.dev/<br/>Commit: Add Wayfinder to AI Tools (#2828)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d]]></content:encoded>
-    </item>
-    <item>
-      <title>MRRDock</title>
-      <link>https://mrrdock.simoneruggiero.com</link>
-      <guid isPermaLink="false">b2a32940fde6f1073c580b4a059e299f6306f9af:MRRDock</guid>
-      <pubDate>Sun, 13 Sep 2026 02:53:33 GMT</pubDate>
-      <category>ファイナンス</category>
-      <description>Category: ファイナンス
-App: MRRDock
-Description: Stripe、RevenueCat、Paddle、Lemon Squeezy、Polar、Dodo Payments、Gumroad の MRR を1つの合計にまとめてメニューバーに表示するツール。多通貨対応、APIキーはキーチェーンに保存され、アカウント不要。
-Website: https://mrrdock.simoneruggiero.com
-Commit: Add MRRDock (#2856)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a32940fde6f1073c580b4a059e299f6306f9af</description>
-      <content:encoded><![CDATA[Category: ファイナンス<br/>App: MRRDock<br/>Description: Stripe、RevenueCat、Paddle、Lemon Squeezy、Polar、Dodo Payments、Gumroad の MRR を1つの合計にまとめてメニューバーに表示するツール。多通貨対応、APIキーはキーチェーンに保存され、アカウント不要。<br/>Website: https://mrrdock.simoneruggiero.com<br/>Commit: Add MRRDock (#2856)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a32940fde6f1073c580b4a059e299f6306f9af]]></content:encoded>
-    </item>
-    <item>
-      <title>Highball</title>
-      <link>https://gethighball.com</link>
-      <guid isPermaLink="false">13e9a58445529bb53ea19d272a0af2580b6d0f6b:Highball</guid>
-      <pubDate>Sat, 12 Sep 2026 16:31:47 GMT</pubDate>
-      <category>ゲームソフトウェア</category>
-      <description>Category: ゲームソフトウェア
-App: Highball
-Description: Wine を通じて Apple Silicon で Windows ゲームを実行し、オープンな互換性データベースからゲームごとにグラフィックス層（DXMT、DXVK、D3DMetal）を選びます。
-Website: https://gethighball.com
-Commit: Add Highball to Gaming Software (#2852)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b</description>
-      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: Highball<br/>Description: Wine を通じて Apple Silicon で Windows ゲームを実行し、オープンな互換性データベースからゲームごとにグラフィックス層（DXMT、DXVK、D3DMetal）を選びます。<br/>Website: https://gethighball.com<br/>Commit: Add Highball to Gaming Software (#2852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b]]></content:encoded>
-    </item>
-    <item>
-      <title>JustMD</title>
-      <link>https://justmd.nuta.life/</link>
-      <guid isPermaLink="false">baedc6c0c7513e7895ee83769d03453609face85:JustMD</guid>
-      <pubDate>Sat, 12 Sep 2026 15:57:25 GMT</pubDate>
-      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: JustMD
-Description: ローカルファイルを直接編集し、編集中の行以外の構文記号を隠すオープンソースのMarkdownエディタ。
-Website: https://justmd.nuta.life/
-Commit: Add JustMD to Markdown Tools (#2853)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: JustMD<br/>Description: ローカルファイルを直接編集し、編集中の行以外の構文記号を隠すオープンソースのMarkdownエディタ。<br/>Website: https://justmd.nuta.life/<br/>Commit: Add JustMD to Markdown Tools (#2853)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85]]></content:encoded>
-    </item>
-    <item>
-      <title>NotchOTP</title>
-      <link>https://github.com/Photon94/NotchOTP</link>
-      <guid isPermaLink="false">1876603fffe45de174bc5021a03a61f6d597ddec:NotchOTP</guid>
-      <pubDate>Fri, 11 Sep 2026 10:45:03 GMT</pubDate>
-      <category>ユーティリティ / パスワード管理</category>
-      <description>Category: ユーティリティ / パスワード管理
-App: NotchOTP
-Description: ノッチ幅のパネル、キーボードショートカット、ローカルのキーチェーン保存に対応したネイティブ TOTP 認証アプリ。
-Open Source: https://github.com/Photon94/NotchOTP
-Commit: Add NotchOTP to Password Management (#2835)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / パスワード管理<br/>App: NotchOTP<br/>Description: ノッチ幅のパネル、キーボードショートカット、ローカルのキーチェーン保存に対応したネイティブ TOTP 認証アプリ。<br/>Open Source: https://github.com/Photon94/NotchOTP<br/>Commit: Add NotchOTP to Password Management (#2835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec]]></content:encoded>
     </item>
   </channel>
 </rss>
